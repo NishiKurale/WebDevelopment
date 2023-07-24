@@ -23,7 +23,7 @@ body {
   border-right: solid 2.5px #333;
 }
 
-#navbar >h1 {
+#navbar>h1 {
   font-size: 1.6rem;
   text-align: center;
   padding: 1rem 0;
